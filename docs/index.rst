@@ -7,16 +7,8 @@ Sphinx Riddle Documentation
 Model the riddle-loving magical creature.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Contents
 
-Docs
-====
-
-.. doxygenstruct:: sphinx
-   :members:
-
-Bibliography
-============
-
-Bibliography should go here.
+   classes
+   refs
